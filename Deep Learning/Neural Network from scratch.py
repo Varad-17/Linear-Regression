@@ -1,9 +1,6 @@
 import numpy as np
 from matplotlib import pyplot as plt
-import torch.nn as nn
 import pandas as pd
-from torch.utils.data import DataLoader,Dataset
-import torch
 
 class neural_network :
     
